@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ai200225d\Desktop\projekat_bez_verif\Projekat\tooling
+valu
+!i10b 1
+!s100 o;9@l21VZCe:2neh18F[>2
+IQIm9VgZKTh?gU_k7;o4We3
+VmF=PT^dDob99ME>0m0SOj3
+Z1 dC:\Users\ai200225d\Desktop\projekat_bez_verif\Projekat\tooling
+w1705496788
+8../src/simulation/modules/alu.v
+F../src/simulation/modules/alu.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z3 !s108 1705756719.508000
+Z4 !s107 ../src/simulation/top.v|../src/simulation/modules/register.v|../src/simulation/modules/alu.v|
+Z5 !s90 -work|work|-l|./vlog_compile.log|-override_timescale|1 ps / 1 ps|../src/simulation/modules/alu.v|../src/simulation/modules/register.v|../src/simulation/top.v|
+!s101 -O0
+Z6 o-work work -override_timescale {1 ps / 1 ps} -O0
+vregister
+!i10b 1
+!s100 UBb_LNY_TJLl`A@nRdB4c0
+IAVgHLB9jHM>LZaN7:BhZM1
+VA21>2?2>lXoI]KE<fh:Ll0
+R1
+w1705603740
+8../src/simulation/modules/register.v
+F../src/simulation/modules/register.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!s101 -O0
+R6
+vtop
+!i10b 1
+!s100 [_Fj@NdJN4H_;6=9Bz2:Q2
+I9Y@RZAYnnoaVIXYRPONcM3
+Ve:gFW1CKLAXc^T:7k2HoD1
+R1
+w1705504135
+8../src/simulation/top.v
+F../src/simulation/top.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+R4
+R5
+!s101 -O0
+R6
